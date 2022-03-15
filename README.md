@@ -20,7 +20,7 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
 - Change directory to the Jinx Theme
 
     ```
-    cd jinx-theme
+    cd mr-robot-theme
     ```
  - Review install script at ./install.sh
  

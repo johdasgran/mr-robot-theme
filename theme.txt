@@ -14,9 +14,9 @@ terminal-border: "0"
 
 # Boot menu
 + boot_menu {
-  left = 12%
+  left = 5%
   top = 20%
-  width = 50%
+  width = 30%
   height = 60%
   item_font = "hackerchaos Regular 28"
   item_color = "#FFE8E8"

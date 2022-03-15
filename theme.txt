@@ -61,7 +61,7 @@ terminal-border: "0"
   # zh_CN
   # text = "在 %d 内启动"
   color = "#B50202"
-  font = "hackerchaos Regular 48"
+  font = "Tomb_Raider Regular 48"
   
 }
 
@@ -94,5 +94,5 @@ terminal-border: "0"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
   color = "#B50202"
-  font = "hackerchaos Regular 48"
+  font = "Tomb_Raider Regular 48"
 }

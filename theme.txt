@@ -19,8 +19,8 @@ terminal-border: "0"
   width = 50%
   height = 60%
   item_font = "hackerchaos Regular 28"
-  item_color = "#ffc9d4"
-  selected_item_color = "#c04062"
+  item_color = "#C6CEE5"
+  selected_item_color = "#B50202"
   icon_width = 32
   icon_height = 32
   item_height = 48
@@ -60,8 +60,8 @@ terminal-border: "0"
   # text = "Автоматичне завантаження розпочнеться через %d сек."
   # zh_CN
   # text = "在 %d 内启动"
-  color = "#ffc9d4"
-  font = "hackerchaos Regular 28"
+  color = "#B50202"
+  font = "hackerchaos Regular 32"
   
 }
 
@@ -93,6 +93,6 @@ terminal-border: "0"
   # text = "Використовуйте ↑ та ↓ для вибору, Enter для підтвердження"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
-  color = "#ffc9d4"
+  color = "#B50202"
   font = "hackerchaos Regular 32"
 }

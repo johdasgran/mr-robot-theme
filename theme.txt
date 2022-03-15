@@ -19,7 +19,7 @@ terminal-border: "0"
   width = 50%
   height = 60%
   item_font = "hackerchaos Regular 28"
-  item_color = "#C6CEE5"
+  item_color = "#FFE8E8"
   selected_item_color = "#B50202"
   icon_width = 32
   icon_height = 32

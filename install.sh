@@ -3,7 +3,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-GRUB_THEME='jinx-theme'
+GRUB_THEME='mr-robot-theme'
 INSTALLER_LANG='English'
 
 # Check dependencies

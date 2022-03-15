@@ -14,7 +14,7 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
 - Clone this repository
 
     ```
-    git clone https://github.com/johdasgran/jinx-theme.git
+    git clone https://github.com/johdasgran/mr-robot-theme.git
     ```
 
 - Change directory to the Jinx Theme
@@ -22,7 +22,7 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
     ```
     cd jinx-theme
     ```
- - Review install script at /install.sh
+ - Review install script at ./install.sh
  
  - Setup the new GRUB
 
@@ -38,6 +38,6 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
  - **Easier, less secure way** — just download and run install script:
 
     ```
-    wget -O - https://github.com/johdasgran/jinx-theme/raw/main/install.sh | bash
+    wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/install.sh | bash
     ```
  - Reboot your PC

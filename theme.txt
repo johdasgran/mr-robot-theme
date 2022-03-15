@@ -15,10 +15,10 @@ terminal-border: "0"
 # Boot menu
 + boot_menu {
   left = 5%
-  top = 30%
-  width = 24%
+  top = 35%
+  width = 20%
   height = 40%
-  item_font = "hackerchaos Regular 28"
+  item_font = "Cracked Code Regular 28"
   item_color = "#FFE8E8"
   selected_item_color = "#B50202"
   icon_width = 32
@@ -94,5 +94,5 @@ terminal-border: "0"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
   color = "#B50202"
-  font = "hackerchaos Regular 32"
+  font = "hackerchaos Regular 48"
 }

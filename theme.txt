@@ -14,7 +14,7 @@ terminal-border: "0"
 
 # Boot menu
 + boot_menu {
-  left = 5%
+  left = 15%
   top = 35%
   width = 22%
   height = 40%

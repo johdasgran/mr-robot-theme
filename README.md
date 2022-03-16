@@ -52,22 +52,9 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
 ### :two: <b>Second installation way</b>
 
 - **Easier, less secure way** — just download and run install script:
-  #### <b>Fxxk Society theme</b>
 
   ```
-  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/fxxk-society/install.sh | bash
+  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/install.sh | bash
   ```
-
-  #### <b>Mr robot theme</b>
-
-  ```
-  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/mr-robot/install.sh | bash
-  ```
-  #### <b>Democracy-hacked theme</b>
-
-  ```
-  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/democracy-hacked/install.sh | bash
-  ```
-
 
 - Reboot your PC

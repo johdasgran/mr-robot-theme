@@ -15,45 +15,59 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
 </p>
 
 ## :wrench: Installation
+
 ### :one: <b>First installation way</b>
 
 - Open terminal.
 
 - Clone this repository
 
-    ```
-    git clone https://github.com/johdasgran/mr-robot-theme.git
-    ```
+  ```
+  git clone https://github.com/johdasgran/mr-robot-theme.git
+  ```
 
 - Change directory to the Mr Robot Theme
 
-    ```
-    cd mr-robot-theme
-    ```
+  ```
+  cd mr-robot-theme
+  ```
 
- - Change to the Nakano directory you want to install, for example:
+- Change to the Nakano directory you want to install, for example:
 
-    ```
-    cd fxxk-society
-    ```
+  ```
+  cd fxxk-society
+  ```
 
- - Review install script at ./install.sh
- 
- - Setup the new GRUB
+- Review install script at ./install.sh
 
-    ```
-    sudo ./install.sh
-    sudo update-grub
-    ```
- - Reboot your PC
+- Setup the new GRUB
+
+  ```
+  sudo ./install.sh
+  sudo update-grub
+  ```
+
+- Reboot your PC
 
 ### :two: <b>Second installation way</b>
 
+- **Easier, less secure way** — just download and run install script:
+  #### <b>Fxxk Society theme</b>
 
- - **Easier, less secure way** — just download and run install script:
+  ```
+  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/fxxk-society/install.sh | bash
+  ```
 
-    ```
-    wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/install.sh | bash
-    ```
-    
- - Reboot your PC
+  #### <b>Mr robot theme</b>
+
+  ```
+  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/mr-robot/install.sh | bash
+  ```
+  #### <b>Democracy-hacked theme</b>
+
+  ```
+  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/democracy-hacked/install.sh | bash
+  ```
+
+
+- Reboot your PC

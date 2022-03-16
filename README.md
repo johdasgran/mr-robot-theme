@@ -25,11 +25,18 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
     git clone https://github.com/johdasgran/mr-robot-theme.git
     ```
 
-- Change directory to the Jinx Theme
+- Change directory to the Mr Robot Theme
 
     ```
     cd mr-robot-theme
     ```
+
+ - Change to the Nakano directory you want to install, for example:
+
+    ```
+    cd fxxk-society
+    ```
+
  - Review install script at ./install.sh
  
  - Setup the new GRUB
@@ -48,4 +55,5 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
     ```
     wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/install.sh | bash
     ```
+    
  - Reboot your PC

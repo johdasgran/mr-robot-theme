@@ -32,11 +32,7 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
   cd mr-robot-theme
   ```
 
-- Change to the directory you want to install, for example:
-
-  ```
-  cd fxxk-society
-  ```
+- Change the name of the background you want to use to "background"
 
 - Review install script at ./install.sh
 

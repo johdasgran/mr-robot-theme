@@ -32,7 +32,7 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
   cd mr-robot-theme
   ```
 
-- Change to the Nakano directory you want to install, for example:
+- Change to the directory you want to install, for example:
 
   ```
   cd fxxk-society
